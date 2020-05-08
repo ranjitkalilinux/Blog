@@ -4,3 +4,5 @@ this is simple blog App with auto login
 pip install mysql-copnnector
 
 pip install pyqt5 
+
+# LocalHost Server is importent 
